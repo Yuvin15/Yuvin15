@@ -1,5 +1,5 @@
-### Hi there 👋
-My name is Yuvin Padayachee, I am a final year Bachelor of Computer and Information Sciences in Application Development student at Varsity College.
+# Hi there 👋
+### My name is Yuvin Padayachee, I am a final year Bachelor of Computer and Information Sciences in Application Development student at Varsity College.
 ---
 
 <!-- ### My languages 

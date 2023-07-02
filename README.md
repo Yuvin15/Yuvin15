@@ -1,6 +1,16 @@
 ### Hi there 👋
+My name is Yuvin Padayachee, I am a final year Bachelor of Computer and Information Sciences in Application Development student at Varsity College.
+---
 
-<!--
+<!-- ### My languages 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="100" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"  width="100" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="100" height="50" />
+NOSQL
+C#
+HTML/CSS
+---
+
 **Yuvin15/Yuvin15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

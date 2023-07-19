@@ -18,7 +18,7 @@
 
 # My current projects 
 
-Some simple project using Riot Games's API
+### Some simple project using Riot Games's API
 
 <!-- 
 **Yuvin15/Yuvin15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

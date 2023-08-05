@@ -4,12 +4,13 @@
 
 # My languages 
 
-### 1. JAVA
+### 1. Java
 ### 2. Kotlin
 ### 3. SQL
 ### 4. NOSQL
 ### 5. C#
 ### 6. HTML/CSS
+### 7. Javascript
 
 # Why did I want to pursue a path in IT?
 

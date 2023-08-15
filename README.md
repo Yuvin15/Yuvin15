@@ -2,15 +2,7 @@
 ### My name is Yuvin Padayachee, I am a final year Bachelor of Computer and Information Sciences in Application Development student at Varsity College.
 
 
-# My languages 
-
-### 1. Java
-### 2. Kotlin
-### 3. SQL
-### 4. NOSQL
-### 5. C#
-### 6. HTML/CSS
-### 7. Javascript
+# My languages/Frameworks/Databases
 
 ![image](https://github.com/Yuvin15/Yuvin15/assets/101713793/036984b4-243d-43d2-890e-033171a850a5)
 ![image](https://github.com/Yuvin15/Yuvin15/assets/101713793/006bfe3d-559c-4fb2-9989-bfbac4ff92eb)

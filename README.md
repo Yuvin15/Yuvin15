@@ -25,7 +25,8 @@
 
 # My current projects 
 
-### Some simple project using Riot Games's API
+### Project using Riot Games's API
+### 2D game(IDK about the idea as yet)
 
 <!-- 
 **Yuvin15/Yuvin15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

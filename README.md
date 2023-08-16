@@ -13,7 +13,6 @@
 ![image](https://github.com/Yuvin15/Yuvin15/assets/101713793/798abbb9-7102-439e-ab7c-a70ea8fbdf3d)
 ![image](https://github.com/Yuvin15/Yuvin15/assets/101713793/0d21c7ab-d0d4-462b-ab4c-2c037068386d)
 ![image](https://github.com/Yuvin15/Yuvin15/assets/101713793/7b0aca21-bbf7-4d6f-9ae5-2ac9835ddc20)
-![image](https://github.com/Yuvin15/Yuvin15/assets/101713793/973358cd-9824-4159-b2c4-cb349b58e383)
 ![image](https://github.com/Yuvin15/Yuvin15/assets/101713793/5bf0ab36-5645-443f-b5b7-9a78a1fb33f8)
 ![image](https://github.com/Yuvin15/Yuvin15/assets/101713793/dc387b99-8901-49cb-97fd-9af21c76d138)
 

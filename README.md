@@ -1,5 +1,5 @@
 # Hi there 👋
-### My name is Yuvin Padayachee, I am a final year Bachelor of Computer and Information Sciences in Application Development student at Varsity College. Also all my repos are private so don't think I don't do work -_-
+### My name is Yuvin Padayachee, I am a final year Bachelor of Computer and Information Sciences in Application Development student at Varsity College.
 
 
 # My languages/Frameworks/Databases

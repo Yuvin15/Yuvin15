@@ -16,6 +16,10 @@
 ![image](https://github.com/Yuvin15/Yuvin15/assets/101713793/5bf0ab36-5645-443f-b5b7-9a78a1fb33f8)
 ![image](https://github.com/Yuvin15/Yuvin15/assets/101713793/dc387b99-8901-49cb-97fd-9af21c76d138)
 
+# What I want to learn/complete one day
+### Security features
+### Create advanced applications
+### Learn reverse engineering
 
 # My current projects 
 

@@ -26,8 +26,8 @@
 ### Project using Riot Games's API
 ### 2D game(IDK about the idea as yet)
 
-## My past project not found on my Github page
-https://fchq.io/c/fd-king_slasher
+# My past project not found on my Github page
+### https://fchq.io/c/fd-king_slasher
 
 # Why did I want to pursue a path in IT?
 

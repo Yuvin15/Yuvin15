@@ -39,8 +39,6 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvin15&theme=blue-green)
 
-![Your Repository's Stats](https://contrib.rocks/image?repo=Yuvin15/Python)
-
 <!-- 
 **Yuvin15/Yuvin15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

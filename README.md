@@ -34,7 +34,6 @@
 
 ###
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvin15"/>]
-(https://github.com/Yuvin15/github-readme-stats#deploy-on-your-own-vercel-instance)
 <!-- 
 **Yuvin15/Yuvin15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

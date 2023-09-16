@@ -37,7 +37,6 @@
 # My brain all the time
 ![image](https://github.com/Yuvin15/Yuvin15/assets/101713793/91c70be4-4f22-4dc0-bdac-1ed0eb5e956c)
 
-# My stats
 <img src="https://streak-stats.demolab.com?user=Yuvin15&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 <!-- 
 **Yuvin15/Yuvin15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

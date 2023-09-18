@@ -25,7 +25,7 @@
 # My current projects 
 
 ### Project using Riot Games's API
-### 3D open world game(Maybe a simple RPG game) 
+### 3D shooter game using Unity
 
 # My past project not found on my Github page
 ### https://fchq.io/c/fd-king_slasher

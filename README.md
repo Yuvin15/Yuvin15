@@ -1,7 +1,6 @@
-<div>
 # Hi there 👋
 My name is Yuvin Padayachee, I am a final year BCAD(Bachelor of Computer and Information Sciences in Application Development) student at Varsity College.
-</div>
+
 
 # My languages/Frameworks/Databases
 

@@ -19,9 +19,9 @@ My name is Yuvin Padayachee, I am a final year BCAD(Bachelor of Computer and Inf
 
 
 # What I want to learn/complete one day
-Security features
-Create advanced applications
-Learn reverse engineering
+- Security features
+- Create advanced applications
+- Learn reverse engineering
 
 # My current projects 
 Project using Riot Games's API

@@ -28,6 +28,7 @@ My name is Yuvin Padayachee, I am a final year BCAD(Bachelor of Computer and Inf
 - A racing game and a party game built using Epic Game's Unreal Engines for Fortnite Creative(UEFN) and Epic Game's Verse Language
 
 # My past project not found on my Github page
+fortnite.com/@fd-king_slasher
 https://fchq.io/c/fd-king_slasher
 
 # Why did I want to pursue a path in IT?

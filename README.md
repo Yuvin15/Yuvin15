@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is Yuvin Padayachee, I am a final year BCAD(Bachelor of Computer and Information Sciences in Application Development) student at Varsity College.
+My name is Yuvin Padayachee, I am a recent graduate in BCAD(Bachelor of Computer and Information Sciences in Application Development) that studied at Varsity College. (Finished my Degree in 2023)
 
 
 # My languages/Frameworks/Databases

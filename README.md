@@ -34,7 +34,7 @@ My name is Yuvin Padayachee, I am a recent graduate in BCAD(Bachelor of Computer
 
 # Why did I want to pursue a path in IT?
 I was always a person that enjoyed creating stuff. It all started back when I first started playing Disney Infinity, I use to be creating stuff using their simple sandbox tools, I then got my Xbox and with that came Halo, in Halo there was a gamemode called Forge, where you build gamemodes, and maps. After this I got Minecraft, this was where I really got creative. Started building simple buildings and structures to using redstone(Minecraft's energy systems) From this point I started building bridges, elevators, you name it usng redstone.(This continued when I got Minecraft on PC snd started using the built in commands) Then came the game Fortnite, I use to play this a lot around 2017-2019. However what made me pursue IT started in 2020 during lockdown. Epic Games released a gamemode called Creative mode where you build whatever your heart desires. I started building quite a lot and I Epic Games gave me a Creator Code(Not anymore) so that I can publish my creations. 
-
+<!-- 
 # My brain all the time
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ff1b5f32-9420-4dde-b2b9-ed2c0aa17459" width="500">
 <br><br>

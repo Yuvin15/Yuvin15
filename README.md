@@ -17,16 +17,6 @@ My name is Yuvin Padayachee, I am a recent graduate in BCAD(Bachelor of Computer
 ![image](https://github.com/Yuvin15/Yuvin15/assets/101713793/dc387b99-8901-49cb-97fd-9af21c76d138)
 ![image](https://github.com/Yuvin15/Yuvin15/assets/101713793/e5815ed6-e0a9-4515-bcaf-cafdf1e05583)
 
-
-# What I want to learn/complete one day
-- Security features
-- Create advanced applications
-- Learn reverse engineering
-
-# My current projects 
-- Project using Riot Games's API
-- A role playing game
-
 # My past project not found on my Github page
 [fortnite.com/@fd-king_slasher](https://www.fortnite.com/@fd-king_slasher)
 

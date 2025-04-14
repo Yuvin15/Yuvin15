@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is Yuvin Padayachee, I am a Junior Developer at iX Online. I work with .NET for backend API development and use MVC for frontend work. I help clients to solve problems, streamline sales processes, and make statistical insights more accessible and efficient.
+My name is Yuvin Padayachee, I am a Junior Developer at iX Online. I work with .NET for backend API development, mainly javascript for frontend work, and use the MVC pattern for frontend work. I help clients to solve problems, streamline sales processes, and make statistical insights more accessible and efficient.
 
 # My languages/Frameworks/Databases
 

@@ -1,5 +1,11 @@
 # Hi there 👋
-My name is Yuvin Padayachee, I am a Junior Developer Intern at iX Online. I work with .NET for backend API development, mainly javascript for frontend work, and use the MVC pattern for frontend work. I help clients to solve problems, streamline sales processes, and make statistical insights more accessible and efficient.
+I'm a Junior Developer currently looking for new opportunities in software development. While job hunting, I'm actively building and learning through personal projects:
+
+🎮 Developing a Unity Game
+
+📊 Building a League of Legends Stats Website
+
+I'm passionate about growing as a developer and always looking to improve. If you come across anything in my projects that could be better, feel free to share your feedback—I'm always open to learning!
 
 # My languages/Frameworks/Databases
 
